@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?center=true&lines=Eae,+bão?+Meu+nome+é+Julio+Tavares.;)](https://git.io/typing-svg)
 
-### ✍️ - Faço Big Data e Inteligência Analítica pelo IESB
+### ✍️ - Estudante de Big Data e Inteligência Analítica pelo IESB - Centro Universitário Instituto de Educação Superior de Brasília
 ### 🎯 - Sonho em criar minha prórpia Startup soluções/serviços de I.A.
 ### 👩‍💻 - Trabalho na área de Dados e Analytics da CCIT/SGETI do Ministério dos Transportes
 ### 💙 - Obcecado por Data Science há anos, facilidade de aprendizado e adaptabilidade 
