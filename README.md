@@ -7,7 +7,7 @@
 ### ✍️ - Estudante de Big Data e Inteligência Analítica pelo IESB - Centro Universitário Instituto de Educação Superior de Brasília
 ### 🎯 - Sonho em criar minha prórpia Startup de soluções/serviços de I.A.
 ### 👩‍💻 - Trabalho na área de Dados e Analytics da CCIT/SGETI do Ministério dos Transportes
-### 💙 - Obcecado por Data Science há anos, facilidade de aprendizado e adaptabilidade 
+### 💙 - Obcecado por Data Science, principalmente em Data Engineering há anos, facilidade de aprendizado e adaptabilidade 
 ## <center> Ferramentas que tenho mais proficiência </center>
 
 
