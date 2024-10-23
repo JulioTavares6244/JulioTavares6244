@@ -5,11 +5,13 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?center=true&lines=Eae,+bão?+Meu+nome+é+Julio+Tavares.;)](https://git.io/typing-svg)
 
+## <center> Eu sou... </center>
+
 ### 🎲 - Mestre de RPG, especializado em DND 5th Edition
-### 🎸 - Músico violonista, cantor e compositor
+### 🎸 - Músico autodidata, violonista, cantor e compositor
 ### ✍️ - Estudante de Big Data e Inteligência Analítica pelo IESB - Centro Universitário Instituto de Educação Superior de Brasília
-### 🎯 - Sonho em criar minha prórpia Startup de soluções/serviços de I.A.
-### 👩‍💻 - Trabalho na área de Dados e Analytics da CCIT/SGETI do Ministério dos Transportes
+### 🎯 - Aspirante a empreendedor com sonho de criar minha prórpia Startup de soluções/serviços de I.A.
+### 👩‍💻 - Profissional na área de Dados e Analytics da CCIT/SGETI do Ministério dos Transportes
 ### 💙 - Obcecado por Data Science, principalmente em Data Engineering há anos, facilidade de aprendizado e adaptabilidade 
 ## <center> Ferramentas que tenho mais proficiência </center>
 
