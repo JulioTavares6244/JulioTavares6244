@@ -14,7 +14,7 @@
 ### 💙 - Obsessed with Data Engineering for years, with a knack for learning and adaptability
 ### 🎲 - A Dungeon Master of DND 5th Edition
 ### 🎸 - A self-taught musician, guitarist, singer, and songwriter
-## <center> Tools I am most proficient in </center>
+## <center> Tools I am most proficient with </center>
 
 <table>
   <tr>
@@ -48,7 +48,7 @@
 
 <br>
 
-## Talk to me 😉
+## Contact me 😉
 <br>
 
 <div>
