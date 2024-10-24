@@ -3,7 +3,7 @@
 
 <img src="https://media.dndbeyond.com/compendium-images/sais/MEDeeJAOuTmQ254j/00-001.wildspace-splash.png" alt="Capa do Julio Tavares" style="width:100%;"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?center=true&lines=Olá,+meu+nome+é+Julio+Tavares.;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?center=true&lines=Hello,+my+name+is+Julio+Tavares.;)](https://git.io/typing-svg)
 
 
 ## <center> I am... </center>
