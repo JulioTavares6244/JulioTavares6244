@@ -6,15 +6,15 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?center=true&lines=Olá,+meu+nome+é+Julio+Tavares.;)](https://git.io/typing-svg)
 
 
-## <center> Eu sou... </center>
+## <center> I am... </center>
 
-### ✍️ - Estudante de Big Data e Inteligência Analítica pelo IESB - Centro Universitário Instituto de Educação Superior de Brasília
-### 🎯 - Aspirante a empreendedor com sonho de criar minha prórpia startup de soluções/serviços de I.A.
-### 👩‍💻 - Profissional na área de Dados e Analytics da CCIT/SGETI do Ministério dos Transportes
-### 💙 - Obcecado por Data Science, principalmente em Data Engineering há anos, facilidade de aprendizado e adaptabilidade
-### 🎲 - Mestre de RPG, especializado em DND 5th Edition
-### 🎸 - Músico autodidata, violonista, cantor e compositor
-## <center> Ferramentas que tenho mais proficiência </center>
+### ✍️ - A student of Big Data and Analytical Intelligence at IESB
+### 🎯 - An aspiring entrepreneur with a dream of creating my own AI solutions/services startup
+### 👩‍💻 - A professional in the Data and Analytics area at CCIT/SGETI of the Ministry of Transport of Brazil
+### 💙 - Obsessed with Data Engineering for years, with a knack for learning and adaptability
+### 🎲 - A Dungeon Master of DND 5th Edition
+### 🎸 - A self-taught musician, guitarist, singer, and songwriter
+## <center> Tools I am most proficient in </center>
 
 <table>
   <tr>
@@ -29,7 +29,7 @@
 
 <br>
 
-## Estou aperfeiçoando 😎
+## I am improving 😎
 <table>
   <tr>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40" /> Python</td>
@@ -48,7 +48,7 @@
 
 <br>
 
-## Fale comigo 😉
+## Talk to me 😉
 <br>
 
 <div>
