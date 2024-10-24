@@ -1,7 +1,7 @@
 # Welcome to my Realm
 
 
-<img src="https://media.dndbeyond.com/compendium-images/sais/MEDeeJAOuTmQ254j/00-001.wildspace-splash.png" alt="Capa do Julio Tavares" style="width:100%; height:300px; object-fit: cover;"/>
+<img src="https://media.dndbeyond.com/compendium-images/sais/MEDeeJAOuTmQ254j/00-001.wildspace-splash.png" alt="Capa do Julio Tavares" style="width:100%; height:290px; object-fit: cover;"/>
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?center=true&lines=Hello,+you+can+call+me+Julius.;)](https://git.io/typing-svg)
