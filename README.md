@@ -69,6 +69,14 @@
 
 <div>
   <a href="https://www.linkedin.com/in/julio-tavares-032947221" target="_blank">
-    <img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>   
+    <img loading="lazy" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>  
+  <a href="https://www.instagram.com/juliotvs/" target="_blank" style="margin-left: 8px;">
+    <img loading="lazy" src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram">
+  </a> 
 </div>
+
+
+
+
+
