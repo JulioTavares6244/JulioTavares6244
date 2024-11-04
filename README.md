@@ -8,7 +8,7 @@
 
 ### ✍️ - A student of Big Data and Analytical Intelligence at IESB  
 ### 🎯 - An aspiring entrepreneur with a dream of creating my own AI solutions/services startup  
-### 👩‍💻 - A professional in the Data and Analytics area at CCIT/SGETI of the Ministry of Transport of Brazil  
+### 👩‍💻 - A Data Analyst at Stefanini Group
 ### 💙 - Obsessed with Data Engineering for years, with a knack for learning and adaptability  
 ### 🎲 - A Dungeon Master of DND 5th Edition  
 ### 🎸 - A self-taught musician, guitarist, singer, and songwriter  
