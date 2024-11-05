@@ -8,7 +8,7 @@
 
 ### ✍️ - A student of Big Data and Analytical Intelligence at IESB  
 ### 🎯 - An aspiring entrepreneur with a dream of creating my own AI solutions/services startup  
-### 👩‍💻 - A Data Analyst at Stefanini Group
+### 👩‍💻 - A Data Engineer at Stefanini Group
 ### 💙 - Obsessed with Data Engineering for years, with a knack for learning and adaptability  
 ### 🎲 - A Dungeon Master of DND 5th Edition  
 ### 🎸 - A self-taught musician, guitarist, singer, and songwriter  
