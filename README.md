@@ -18,6 +18,7 @@
 <table>
   <tr>
     <td><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/power-bi-icon.png" width="40" height="40" /> PowerBI</td>
+    <td><img src="https://icon-icons.com/icons2/2699/PNG/512/databricks_logo_icon_170295.png" width="40" height="40" alt="Databricks Logo" /> Databricks</td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" width="40" height="40" /> Microsoft Azure</td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="40" height="40" /> Azure SQL Database</td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="40" height="40" /> SQL Server</td>
@@ -38,6 +39,8 @@
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="40" height="40" /> NumPy</td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" width="40" height="40" /> Matplotlib</td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="40" height="40" /> Pandas</td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40" /> Git</td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg" width="40" height="40" alt="Azure DevOps Logo" /> Azure DevOps</td>
   </tr>
 </table>
 
