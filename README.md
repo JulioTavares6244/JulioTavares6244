@@ -71,7 +71,6 @@
 ## Contact me 😉
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Julios%20Tavares-blue)](https://www.linkedin.com/in/julio-tavares-032947221)
-[![Instagram](https://img.shields.io/badge/Instagram-%40juliotvs-purple)](https://www.instagram.com/juliotvs/)
 
 
 
