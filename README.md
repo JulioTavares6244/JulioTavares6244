@@ -59,14 +59,6 @@
 
 ---
 
-## Visitors Count 👀
-<div align="center">  
-  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{JulioTavares6244}/count.svg" /></p> 
-</div>
-
-<br>
-
----
 
 ## Contact me 😉
 
