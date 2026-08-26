@@ -46,23 +46,13 @@
 
 <br>
 
-## Contributions & Stats 💻
-
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=JulioTavares6244&show_icons=true&count_private=true&hide_border=true&title_color=ff66ff&icon_color=ff66ff&text_color=00ff7f&size=35&bg_color=0d1117" alt="Julio Tavares github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulioTavares6244&layout=compact&hide_border=true&title_color=ff66ff&text_color=00ff66&bg_color=0d1117" />
-</div>
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JulioTavares6244&bg_color=0d1117&color=ff66ff&line=00ff7f&point=00ff7f&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<br>
 
 ---
 
 
 ## Contact me 😉
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Julios%20Tavares-blue)](https://www.linkedin.com/in/julio-tavares-032947221)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Julios%20Tavares-blue)](https://www.linkedin.com/in/julio-césar-tavares-4a64b3363/)
 
 
 
